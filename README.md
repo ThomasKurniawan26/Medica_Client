@@ -1,4 +1,4 @@
-# Sakai_Client
-SAKAI-ANIME-FE
+# Medica_Client
+Medica_Client_FE
 
 TECH: VUE-3
